@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import MonopolyBoard from './components/MonopolyBoard.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <MonopolyBoard />
 </template>
